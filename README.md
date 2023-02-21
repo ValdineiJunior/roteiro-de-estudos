@@ -9,7 +9,8 @@ Uma forma interativa que utilizei para acompanhar as varias fontes de informa√ß√
 Vou deixar abaixo o link de cada fonte para melhor me organizar e navegar entre elas.
 
 [Universidade Brasileira Livre](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
-[Free Code Camp]()
+
+[Free Code Camp](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
 
 
