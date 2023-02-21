@@ -8,4 +8,9 @@ Uma forma interativa que utilizei para acompanhar as varias fontes de informa√ß√
 
 Vou deixar abaixo o link de cada fonte para melhor me organizar e navegar entre elas.
 
-[Roteiro de estudos UBL](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
+[Universidade Brasileira Livre](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
+[Free Code Camp]()
+
+
+
+Free Code Camp - https://www.freecodecamp.org/learn Os Programadores - https://osprogramadores.com/ Universidade Brasileira Livre - https://github.com/Universidade-Livre/ciencia-da-computacao
