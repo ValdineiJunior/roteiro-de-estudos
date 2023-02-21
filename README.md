@@ -12,7 +12,4 @@ Abaixo segue uma lista das fontes que utilizo para estudar, e meu progresso em c
 
 [Free Code Camp](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-
-
-Os Programadores - https://osprogramadores.com/
-
+[Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3])
