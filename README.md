@@ -6,7 +6,7 @@ Pela grande disponibilidade de conteúdo gratuito na atualidade, resolvi trilhar
 
 Uma forma interativa que utilizei para acompanhar as varias fontes de informações que consumo foi atravéz de issues que funcionam como uma to do list onde posso marcar o que já conclui e acompanhar o que pretendo estudar.
 
-Vou deixar abaixo o link de cada fonte para melhor me organizar e navegar entre elas.
+Abaixo segue uma lista das fontes que utilizo para estudar, e meu progresso em cada uma delas.
 
 [Universidade Brasileira Livre](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
 
@@ -14,4 +14,5 @@ Vou deixar abaixo o link de cada fonte para melhor me organizar e navegar entre 
 
 
 
-Free Code Camp - https://www.freecodecamp.org/learn Os Programadores - https://osprogramadores.com/ Universidade Brasileira Livre - https://github.com/Universidade-Livre/ciencia-da-computacao
+Os Programadores - https://osprogramadores.com/
+
