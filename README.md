@@ -9,7 +9,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 [Universidade Brasileira Livre  - Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
 
-[Free Code Camp](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
+[Free Code Camp - Responsive Web Design.](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
 [Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3])
 
