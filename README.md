@@ -11,6 +11,6 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 [Free Code Camp - Responsive Web Design.](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-[Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3])
+[Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
 
 </h2>
