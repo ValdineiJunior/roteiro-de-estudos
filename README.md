@@ -6,7 +6,7 @@ Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estu
 
 Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
-# Fontes
+# Cursos
   
 <h3>
   
@@ -14,5 +14,14 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 - [Free Code Camp - Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-- [Os Programadores - Podcast, Grupo e Desafios](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+
 </h3>
+
+# Desafios
+
+- [Os Programadores - Desafios](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+
+# Podcasts
+
+- [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+
