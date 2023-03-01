@@ -19,9 +19,16 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 # Desafios
 
+<h3>
+
 - [Os Programadores - Desafios](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+  
+ </h3>
 
 # Podcasts
 
+<h3>
+
 - [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 
+  </h3>
