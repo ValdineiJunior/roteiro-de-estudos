@@ -21,7 +21,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 <h3>
 
-- [Os Programadores - Desafios](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+- [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
   
  </h3>
 
