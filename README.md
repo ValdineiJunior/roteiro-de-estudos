@@ -23,5 +23,5 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 # Podcasts
 
-- [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+- [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 
