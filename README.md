@@ -30,5 +30,6 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 <h3>
 
 - [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
+- [2 Devs - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
 
   </h3>
