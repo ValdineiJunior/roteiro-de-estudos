@@ -12,11 +12,11 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 - ### [Free Code Camp - Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-# Desafios
+## Desafios
 
 - ### [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
   
-# Podcasts
+## Podcasts
 
 - ### [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 - ### [2 Devs - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
