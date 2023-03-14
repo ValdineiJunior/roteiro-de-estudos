@@ -12,7 +12,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 - ### [Free Code Camp - Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-- ### [eXcript - Curso C++](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
+- ### [EXcript - Curso C++](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
 
 ## Desafios
 
