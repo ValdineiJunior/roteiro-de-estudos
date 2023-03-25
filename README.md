@@ -23,6 +23,9 @@ src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/cursos-rotei
 
 ## Desafios
 
+<img 
+src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/desafio-roteiro-de-estudos.png"/>
+
 - ### [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
 
 - ### [Advent of Code - Desafios em C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
