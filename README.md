@@ -1,12 +1,9 @@
 # Seja bem vindo ao meu roteiro de estudos
-
-  <div  align="center">
-    <img
-     width="30%"
-     height="auto"
-     src="https://octodex.github.com/images/Professortocat_v2.png"
-    />
-  </div>
+<img
+width="30%"
+height="auto"
+src="https://octodex.github.com/images/Professortocat_v2.png"
+/>
 
 Aqui faço a organização e acompanhamento de meus estudos na área de programação.
 
