@@ -2,7 +2,7 @@
 
   <div  align="center">
     <img
-     width="50%"
+     width="30%"
      height="auto"
      src="https://octodex.github.com/images/Professortocat_v2.png"
     />
