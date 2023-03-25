@@ -11,7 +11,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 ## Cursos
 <img 
-src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/banner-roteiro-de-estudos.png"/>
+src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/cursos-roteiro-de-estudos.png"/>
   
 - ### [Universidade Brasileira Livre  - Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
 
