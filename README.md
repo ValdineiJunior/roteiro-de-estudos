@@ -8,8 +8,6 @@
 
 ### Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
-<br><br/>
-
 ## Cursos
 <img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/cursos-roteiro-de-estudos.png?raw=true"/>
   
@@ -21,8 +19,6 @@
 
 - ### [CFBCursos - Curso de C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/31)
 
-<br><br/>
-
 ## Desafios
 
 <img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/desafio-roteiro-de-estudos.png?raw=true"/>
@@ -30,8 +26,6 @@
 - ### [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
 
 - ### [Advent of Code - Desafios em C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
-  
-<br><br/>
   
 ## Podcasts
 
