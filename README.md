@@ -1,15 +1,15 @@
 # Seja bem vindo ao meu roteiro de estudos
 
-<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/banner-roteiro-de-estudos.png"/>
+<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/banner-roteiro-de-estudos.png?raw=true"/>
 
-Aqui faço a organização e acompanhamento de meus estudos na área de programação.
+### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
 
-Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
+### Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
 
-Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
+### Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 ## Cursos
-<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/cursos-roteiro-de-estudos.png"/>
+<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/cursos-roteiro-de-estudos.png?raw=true"/>
   
 - ### [Universidade Brasileira Livre  - Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
 
@@ -21,7 +21,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 ## Desafios
 
-<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/desafio-roteiro-de-estudos.png"/>
+<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/desafio-roteiro-de-estudos.png?raw=true"/>
 
 - ### [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
 
@@ -29,7 +29,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
   
 ## Podcasts
 
-<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/podcast-roteiro-de-estudos.png"/>
+<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/podcast-roteiro-de-estudos.png?raw=true"/>
 
 - ### [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 - ### [2 Devs - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
