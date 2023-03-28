@@ -17,7 +17,7 @@ Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
 - ### [EXcript - Curso C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/26)
 
-- ### [CFBCursos - Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/31)
+- ### [CFBCursos - Curso de C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/31)
 
 ## Desafios
 
