@@ -33,3 +33,12 @@
 
 - ### [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 - ### [2 Devs - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
+
+
+## Conograma
+
+| Horário     | Segunda-feira         | Terça-feira      | Quarta-feira | Quinta-feira                 | Sexta-feira            |
+|-------------|-----------------------|------------------|--------------|------------------------------|------------------------|
+| 19h00 20h30 | Ciência da Computação | CFBCursos - C++  | Python II    | Leitura e Produção de Textos | JS and Data Structures |
+| 20h30 21h00 | Intervalo             | Intervalo        | Intervalo    | Intervalo                    | Intervalo              |
+| 21h00 22h30 | Web Design Responsivo | Noções de Inglês | OOP I        | Coding Interview Prep        | Aula Vaga              |
