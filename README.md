@@ -39,6 +39,6 @@
 
 | Horário     | Segunda-feira         | Terça-feira      | Quarta-feira | Quinta-feira                 | Sexta-feira            |
 |-------------|-----------------------|------------------|--------------|------------------------------|------------------------|
-| 19h00 20h30 | Ciência da Computação | CFBCursos - C++  | Python II    | Leitura e Produção de Textos | JS and Data Structures |
+| 19h00 20h30 | [Ciência da Computação](https://ead.napratica.org.br/enrollments) | CFBCursos - C++  | Python II    | Leitura e Produção de Textos | JS and Data Structures |
 | 20h30 21h00 | Intervalo             | Intervalo        | Intervalo    | Intervalo                    | Intervalo              |
-| 21h00 22h30 | Web Design Responsivo | Noções de Inglês | OOP I        | Coding Interview Prep        | Aula Vaga              |
+| 21h00 22h30 | [Web Design Responsivo](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | Noções de Inglês | OOP I        | Coding Interview Prep        | Aula Vaga              |
