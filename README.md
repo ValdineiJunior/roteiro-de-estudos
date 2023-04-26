@@ -26,6 +26,8 @@
 - ### [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
 
 - ### [Advent of Code - Desafios em C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
+
+- ### [odesignal - Desafios em JavaScript]()
   
 ## Podcasts
 
