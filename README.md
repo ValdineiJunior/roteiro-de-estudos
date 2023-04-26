@@ -22,7 +22,7 @@
 
 - ### [Advent of Code - Desafios em C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
 
-- ### [Codesignal - Desafios em JavaScript]()
+- ### [Codesignal - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40)
   
 ## Podcasts
 
