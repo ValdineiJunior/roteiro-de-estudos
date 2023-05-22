@@ -6,6 +6,10 @@
 
 ### Abaixo segue uma lista das fontes que utilizo e meu progresso em cada uma delas.
 
+## Certificados
+  
+- ### [Certificados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
+
 ## Cursos
   
 - ### [Universidade Brasileira Livre  - Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
