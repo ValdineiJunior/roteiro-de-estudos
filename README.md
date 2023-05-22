@@ -8,7 +8,7 @@
 
 ## Certificados
   
-- ### [Certificados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
+- ### [Universidade Brasileira Livre - Certificados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
 
 ## Cursos
   
