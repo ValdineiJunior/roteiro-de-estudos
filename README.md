@@ -2,11 +2,11 @@
 
 <img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/cursos-roteiro-de-estudos.png">
 
-### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
+- ### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
 
-### Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
+- ### Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
 
-### Abaixo segue uma lista das fontes que utilizo, meu progresso entre outras informações.
+- ### Abaixo segue uma lista das fontes que utilizo, meu progresso entre outras informações.
 
 ## Certificados
   
