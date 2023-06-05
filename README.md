@@ -1,5 +1,7 @@
 # Seja bem vindo ao meu roteiro de estudos
 
+<img src="https://github.com/ValdineiJunior/roteiro-de-estudos/blob/main/images/cursos-roteiro-de-estudos.png">
+
 ### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
 
 ### Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
