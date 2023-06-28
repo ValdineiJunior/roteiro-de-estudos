@@ -20,10 +20,6 @@
 
 - ### [Free Code Camp - Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-- ### [EXcript - Curso C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/26)
-
-- ### [CFBCursos - Curso de C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/31)
-
 ## Desafios
 <img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
 
