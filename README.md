@@ -14,7 +14,7 @@
 - ### [Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
 
 ## Cursos
-<img src="https://i.pinimg.com/originals/eb/71/c1/eb71c15c3c27eb6503e4ca41bf247a95.png">
+<img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
   
 - ### [Universidade Brasileira Livre  - Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
 
