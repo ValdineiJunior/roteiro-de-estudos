@@ -11,7 +11,7 @@
 ## Certificados
 <img src="https://i.pinimg.com/originals/dc/4b/24/dc4b24f1c2a110d7004d3317b948608f.png">
   
-- ### [Universidade Brasileira Livre - Certificados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
+- ### [Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
 
 ## Cursos
 <img src="https://i.pinimg.com/originals/eb/71/c1/eb71c15c3c27eb6503e4ca41bf247a95.png">
