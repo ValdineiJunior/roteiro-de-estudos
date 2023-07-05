@@ -12,6 +12,7 @@
 <img src="https://i.pinimg.com/originals/dc/4b/24/dc4b24f1c2a110d7004d3317b948608f.png">
   
 - ### [Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
+- ### [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/account/accomplishments/verify/XWRQ7FUD2WRL)
 
 ## Cursos
 <img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
