@@ -13,6 +13,7 @@
   
 - ### [Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51)
 - ### [Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78)
+- ### [Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79)
 
 ## Cursos
 <img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
