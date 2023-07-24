@@ -20,11 +20,11 @@
 ## Cursos
 <img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
   
-- ### [Universidade Brasileira Livre  - Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
+- ### [Cursos em Ciência da Computação - Universidade Brasileira Livre](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
 
-- ### [Free Code Camp - Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
+- ### [Curso Web Design Responsivo - Free Code Camp](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
-- ### [Cruzeiro do Sul - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80)
+- ### [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80)
 
 ## Desafios
 <img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
