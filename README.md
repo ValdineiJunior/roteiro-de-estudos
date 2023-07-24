@@ -21,23 +21,19 @@
 <img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
   
 - ### [Cursos em Ciência da Computação - Universidade Brasileira Livre](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1)
-
 - ### [Curso Web Design Responsivo - Free Code Camp](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
-
 - ### [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80)
 
 ## Desafios
 <img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
 
-- ### [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
-
 - ### [Desafios em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
-
 - ### [Desafios em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40)
+- ### [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
   
 ## Podcasts
 <img src="https://i.pinimg.com/originals/87/50/c7/8750c7e6782538a67c39156fb5716054.png">
 
-- ### [Podcast - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 - ### [Podcast - 2 Devs](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
+- ### [Podcast - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
 
