@@ -29,15 +29,15 @@
 ## Desafios
 <img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
 
-- ### [Os Programadores - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+- ### [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
 
-- ### [Advent of Code - Desafios em C++](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
+- ### [Desafios em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27)
 
-- ### [Codesignal - Desafios em JavaScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40)
+- ### [Desafios em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40)
   
 ## Podcasts
 <img src="https://i.pinimg.com/originals/87/50/c7/8750c7e6782538a67c39156fb5716054.png">
 
-- ### [Os Programadores - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
-- ### [2 Devs - Podcast](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
+- ### [Podcast - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/6)
+- ### [Podcast - 2 Devs](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/7)
 
