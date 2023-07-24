@@ -22,6 +22,8 @@
 
 - ### [Free Code Camp - Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2)
 
+- ### [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas]
+
 ## Desafios
 <img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
 
