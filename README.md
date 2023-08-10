@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu roteiro de estudos
 
-<img src="https://i.pinimg.com/originals/4c/9d/18/4c9d18133b0445378f8c8dadf82d382a.png">
+<img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
 - ### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
 
