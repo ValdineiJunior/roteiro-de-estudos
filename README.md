@@ -71,6 +71,6 @@
 
 <br>
 
-- ### [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/3)
+- ### [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87)
 
 <br>
