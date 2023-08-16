@@ -12,7 +12,7 @@
 
 <br>
 
-- ### Abaixo segue uma lista das fontes que utilizo, meu progresso entre outras informações.
+- ### Abaixo segue uma lista das fontes que utilizo, meu progresso em cada uma delas entre outras informações.
 
 <br>
 
