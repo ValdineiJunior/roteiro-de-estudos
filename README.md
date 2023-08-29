@@ -13,13 +13,13 @@
 
 <br>
 
-|                                                                                              |
-|----------------------------------------------------------------------------------------------|
-| [Certificado Conectar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) |
-| [Certificado Fundamentar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) |
-| [Certificado Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) |
-| [Certificado Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) |
-| [Certificado Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) |
+| Certificado | Certificadora | Duração |
+|:------------|:--------------|:--------|
+| [Certificado Conectar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) | [Rocket Seat](https://app.rocketseat.com.br/) | 5 horas |
+| [Certificado Fundamentar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) | [Rocket Seat](https://app.rocketseat.com.br/) | 28 horas |
+| [Certificado Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42 horas |
+| [Certificado Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16 horas |
+| [Certificado Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32 horas |
 
 <br>
 
