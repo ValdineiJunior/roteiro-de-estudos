@@ -4,7 +4,7 @@
 
 - ### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
 
-- ### Tambem utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
+- ### Também utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
 
 - ### Abaixo segue uma lista das fontes que utilizo, meu progresso em cada uma delas entre outras informações.
 
@@ -41,8 +41,8 @@
 
 <br>
 
-|                                                                        |
-|------------------------------------------------------------------------|
-| [Desafios em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) |
-| [Desafios em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) |
-| [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) |
+| Desafios | Linguagem | Fonte |
+|:---------|:----------|:------|
+| [Desafios em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) | C++ | [Advent of Code](https://adventofcode.com/) |
+| [Desafios em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) | JavaScript | [Codesignal](https://codesignal.com/)
+| [Desafios em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) | JavaScript | [Os Programadores](https://www.osprogramadores.com/desafios/)
