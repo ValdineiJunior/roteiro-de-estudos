@@ -28,11 +28,11 @@
 
 <br>
 
-| Curso | Fonte |
-|:------|:------|
-| [Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) |
-| [Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn/) |
-| [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| Curso | Fonte | Progresso |
+|:------|:------|:----------|
+| [Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) | ![Progresso](https://progress-bar.dev/14/) |
+| [Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn/) | ![Progresso](https://progress-bar.dev/95/) |
+| [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/9/) |
 
 <br>
 
