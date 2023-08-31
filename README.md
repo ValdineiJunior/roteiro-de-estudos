@@ -13,13 +13,13 @@
 
 <br>
 
-| Certificado | Certificadora | Duração |
-|:------------|:--------------|:--------|
-| [Certificado Conectar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) | [Rocket Seat](https://app.rocketseat.com.br/) | 5 horas |
-| [Certificado Fundamentar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) | [Rocket Seat](https://app.rocketseat.com.br/) | 28 horas |
-| [Certificado Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42 horas |
-| [Certificado Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16 horas |
-| [Certificado Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32 horas |
+| Certificado | Certificadora | Duração do Curso |
+|:-----------:|:-------------:|:-------:|
+| [Certificado Conectar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) | [Rocket Seat](https://app.rocketseat.com.br/) | 05:00 horas |
+| [Certificado Fundamentar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) | [Rocket Seat](https://app.rocketseat.com.br/) | 28:00 horas |
+| [Certificado Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42:00 horas |
+| [Certificado Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16:00 horas |
+| [Certificado Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32:00 horas |
 
 <br>
 
@@ -29,16 +29,16 @@
 <br>
 
 | Curso | Fonte | Progresso |
-|:------|:------|:----------|
+|:-----:|:-----:|:---------:|
 | [Aprendendo a aprender](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/8) | [Coursera](https://www.coursera.org/learn/aprender) | ![Progresso](https://progress-bar.dev/100/) |
-| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) |
-| [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | ![Progresso](https://progress-bar.dev/100/) |
+| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) |
+| [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | ![Progresso](https://progress-bar.dev/100/) |
 | [Git e GitHub](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/23) | [Cursoemvideo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | ![Progresso](https://progress-bar.dev/100/) |
 | [Introdução à Ciência da Computação com Python I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/24) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | ![Progresso](https://progress-bar.dev/100/) |
-| [Fundamentos Matemáticos para Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/54) | [Youtube](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | ![Progresso](https://progress-bar.dev/100/) |
+| [Fundamentos Matemáticos para Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/54) | [Youtube - Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | ![Progresso](https://progress-bar.dev/100/) |
 | [Ciência da Computação 50 (CC50)](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/4) | [Ead Na Prática](https://ead.napratica.org.br/enrollments/8929084/courses/84414) | ![Progresso](https://progress-bar.dev/78/) |
 | [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | ![Progresso](https://progress-bar.dev/12/) |
-| [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/55/) |
+| [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/55/) |
 | [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/6/) |
 
 <br>
@@ -49,7 +49,7 @@
 <br>
 
 | Solução dos Desafios | Linguagem | Fonte |
-|:---------|:----------|:------|
+|:--------:|:---------:|:-----:|
 | [Solução em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) | C++ | [Advent of Code](https://adventofcode.com/) |
 | [Solução em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) | JavaScript | [Codesignal](https://codesignal.com/)
 | [Solução em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) | JavaScript | [Os Programadores](https://www.osprogramadores.com/desafios/)
@@ -62,7 +62,7 @@
 <br>
 
 | Roteiro | Fonte | Progresso |
-|:------|:------|:----------|
+|:-----:|:-----:|:---------:|
 | [Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) | ![Progresso](https://progress-bar.dev/14/) |
 | [Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn/) | ![Progresso](https://progress-bar.dev/95/) |
 | [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/9/) |
