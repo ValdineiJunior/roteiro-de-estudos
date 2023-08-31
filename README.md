@@ -56,3 +56,16 @@
 | [Solução em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) | C++ | [Advent of Code](https://adventofcode.com/) |
 | [Solução em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) | JavaScript | [Codesignal](https://codesignal.com/)
 | [Solução em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) | JavaScript | [Os Programadores](https://www.osprogramadores.com/desafios/)
+
+<br>
+
+# Fontes de Estudo
+<img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
+
+<br>
+
+| Roteiro | Fonte | Progresso |
+|:------|:------|:----------|
+| [Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) | ![Progresso](https://progress-bar.dev/14/) |
+| [Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn/) | ![Progresso](https://progress-bar.dev/95/) |
+| [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/9/) |
