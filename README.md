@@ -57,7 +57,7 @@
 <br>
 
 # Fontes de Estudo
-<img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
+<img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
 
 <br>
 
