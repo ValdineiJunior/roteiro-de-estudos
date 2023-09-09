@@ -75,7 +75,8 @@
 | [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) | O motor de busca de traduções em contexto |
 | [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) | Oferece dicionários gratuitamente para quem quer aprender inglês |
 | [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
-| [whimsical](https://whimsical.com/) | O hub para colaboração visual |
+| [Whimsical](https://whimsical.com/) | O hub para colaboração visual |
+| [Pyflo](https://pyflo.net/intro/) | Aulas introdutórias de python |
 
 <br>
 
