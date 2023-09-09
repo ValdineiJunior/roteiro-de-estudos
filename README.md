@@ -69,7 +69,8 @@
 | ChatGPT é um chatbot online de inteligência artificial | [ChatGPT](https://chat.openai.com/) |
 | Estatísticas de linguagens do GitHub | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) |
 | Criador de fotos de perfil, crie uma incrível Foto do perfil de graça | [Profile Pic Maker](https://pfpmaker.com/) |
-| Personalizando a paleta de cores padrão do seu projeto | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors)
+| Personalizando a paleta de cores padrão do seu projeto | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) |
+| Comunidade de prática linguística | [Free4Talk](https://www.free4talk.com/) |
 
 <br>
 
