@@ -77,6 +77,7 @@
 | [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
 | [Whimsical](https://whimsical.com/) | O hub para colaboração visual |
 | [Pyflo](https://pyflo.net/intro/) | Aulas introdutórias de python |
+| [Devtools Tips](https://devtoolstips.org/) | Dicas para o DevTools | 
 
 <br>
 
