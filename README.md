@@ -74,6 +74,7 @@
 | [Interview Warmup](https://grow.google/certificates/interview-warmup/) | Uma maneira rápida de se preparar para sua próxima entrevista |
 | [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) | O motor de busca de traduções em contexto |
 | [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) | Oferece dicionários gratuitamente para quem quer aprender inglês |
+| [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
 
 <br>
 
