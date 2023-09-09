@@ -64,6 +64,7 @@
 | Descrição | Link da Ferramenta |
 |:-----:|:-----:|
 | Editor de código-fonte online | [Replit](https://replit.com/~) |
+| Editor de código-fonte online | [CodePen](https://codepen.io/) |
 | Crie e compartilhe belas imagens do seu código-fonte | [Carbon](https://carbon.now.sh/) |
 | ChatGPT é um chatbot online de inteligência artificial | [ChatGPT](https://chat.openai.com/) |
 | Estatísticas de linguagens do GitHub | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) |
