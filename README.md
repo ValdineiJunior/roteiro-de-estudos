@@ -73,6 +73,7 @@
 | Free4Talk - Uma comunidade de prática linguística | [Free4Talk](https://www.free4talk.com/) |
 | Interview Warmup - Uma maneira rápida de se preparar para sua próxima entrevista | [Interview Warmup](https://grow.google/certificates/interview-warmup/) |
 | Reverso Context - O motor de busca de traduções em contexto | [Reverso](https://context.reverso.net/traducao/ingles-portugues/nearly) |
+| Cambridge Dictionary - Oferece dicionários gratuitamente para quem quer aprender inglês [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) |
 
 <br>
 
