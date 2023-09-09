@@ -61,19 +61,19 @@
 
 <br>
 
-| Descrição | Link da Ferramenta |
+| Ferramenta | Descrição |
 |:-----:|:-----:|
-| Replit - Editor de código-fonte online | [Replit](https://replit.com/~) |
-| CodePen - Editor de código-fonte online | [CodePen](https://codepen.io/) |
-| Carbon - Crie e compartilhe belas imagens do seu código-fonte | [Carbon](https://carbon.now.sh/) |
-| ChatGPT - Um chatbot online de inteligência artificial | [ChatGPT](https://chat.openai.com/) |
-| GitHut - Veja as estatísticas de linguagens do GitHub | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) |
-| Profile Pic Maker - Criador de fotos de perfil, crie uma incrível Foto do perfil de graça | [Profile Pic Maker](https://pfpmaker.com/) |
-| Tailwindcss - Personalizando a paleta de cores padrão do seu projeto | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) |
-| Free4Talk - Uma comunidade de prática linguística | [Free4Talk](https://www.free4talk.com/) |
-| Interview Warmup - Uma maneira rápida de se preparar para sua próxima entrevista | [Interview Warmup](https://grow.google/certificates/interview-warmup/) |
-| Reverso Context - O motor de busca de traduções em contexto | [Reverso](https://context.reverso.net/traducao/ingles-portugues/nearly) |
-| Cambridge Dictionary - Oferece dicionários gratuitamente para quem quer aprender inglês | [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) |
+| [Replit](https://replit.com/~) | Editor de código-fonte online |
+| [CodePen](https://codepen.io/) | Editor de código-fonte online |
+| [Carbon](https://carbon.now.sh/) | Crie e compartilhe belas imagens do seu código-fonte |
+| [ChatGPT](https://chat.openai.com/) | Um chatbot online de inteligência artificial |
+| [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) | Veja as estatísticas de linguagens do GitHub |
+| [Profile Pic Maker](https://pfpmaker.com/) | Criador de fotos de perfil, crie uma incrível Foto do perfil de graça |
+| [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) | Personalizando a paleta de cores padrão do seu projeto |
+| [Free4Talk](https://www.free4talk.com/) | Uma comunidade de prática linguística |
+| [Interview Warmup](https://grow.google/certificates/interview-warmup/) | Uma maneira rápida de se preparar para sua próxima entrevista |
+| [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) | O motor de busca de traduções em contexto |
+| [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) | Oferece dicionários gratuitamente para quem quer aprender inglês |
 
 <br>
 
