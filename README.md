@@ -56,6 +56,19 @@
 
 <br>
 
+# Ferramentas Úteis
+<img src="https://i.pinimg.com/originals/d2/fe/60/d2fe60be9ebbfaf4e7fec5a7f9c48696.png">
+
+<br>
+
+| Descrição | Link da Ferramenta |
+|:-----:|:-----:|
+| Editor de código-fonte online | [Replit](https://replit.com/~) |
+| Crie e compartilhe belas imagens do seu código-fonte | [Carbon](https://carbon.now.sh/) |
+| ChatGPT é um chatbot online de inteligência artificial | [ChatGPT](https://chat.openai.com/) |
+
+<br>
+
 # Fontes de Estudo
 <img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
 
