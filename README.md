@@ -63,15 +63,16 @@
 
 | Descrição | Link da Ferramenta |
 |:-----:|:-----:|
-| Editor de código-fonte online | [Replit](https://replit.com/~) |
-| Editor de código-fonte online | [CodePen](https://codepen.io/) |
-| Crie e compartilhe belas imagens do seu código-fonte | [Carbon](https://carbon.now.sh/) |
-| ChatGPT é um chatbot online de inteligência artificial | [ChatGPT](https://chat.openai.com/) |
-| Estatísticas de linguagens do GitHub | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) |
-| Criador de fotos de perfil, crie uma incrível Foto do perfil de graça | [Profile Pic Maker](https://pfpmaker.com/) |
-| Personalizando a paleta de cores padrão do seu projeto | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) |
-| Comunidade de prática linguística | [Free4Talk](https://www.free4talk.com/) |
-| Interview Warmup - Uma maneira rápida de se preparar para sua próxima entrevista | [Interview Warmup](https://grow.google/certificates/interview-warmup/)
+| Replit - Editor de código-fonte online | [Replit](https://replit.com/~) |
+| CodePen - Editor de código-fonte online | [CodePen](https://codepen.io/) |
+| Carbon - Crie e compartilhe belas imagens do seu código-fonte | [Carbon](https://carbon.now.sh/) |
+| ChatGPT - Um chatbot online de inteligência artificial | [ChatGPT](https://chat.openai.com/) |
+| GitHut - Veja as estatísticas de linguagens do GitHub | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) |
+| Profile Pic Maker - Criador de fotos de perfil, crie uma incrível Foto do perfil de graça | [Profile Pic Maker](https://pfpmaker.com/) |
+| Tailwindcss - Personalizando a paleta de cores padrão do seu projeto | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) |
+| Free4Talk - Uma comunidade de prática linguística | [Free4Talk](https://www.free4talk.com/) |
+| Interview Warmup - Uma maneira rápida de se preparar para sua próxima entrevista | [Interview Warmup](https://grow.google/certificates/interview-warmup/) |
+| Reverso Context - O motor de busca de traduções em contexto | [Reverso](https://context.reverso.net/traducao/ingles-portugues/nearly) |
 
 <br>
 
