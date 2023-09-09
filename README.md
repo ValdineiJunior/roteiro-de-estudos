@@ -71,6 +71,7 @@
 | Criador de fotos de perfil, crie uma incrível Foto do perfil de graça | [Profile Pic Maker](https://pfpmaker.com/) |
 | Personalizando a paleta de cores padrão do seu projeto | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) |
 | Comunidade de prática linguística | [Free4Talk](https://www.free4talk.com/) |
+| Interview Warmup - Uma maneira rápida de se preparar para sua próxima entrevista | [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 
 <br>
 
