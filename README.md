@@ -53,7 +53,7 @@
 | [Solução em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) | C++ | [Advent of Code](https://adventofcode.com/) |
 | [Solução em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) | JavaScript | [Codesignal](https://codesignal.com/) |
 | [Solução em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) | JavaScript | [Os Programadores](https://www.osprogramadores.com/desafios/) |
-| [Solução em JavaScript - HackerRank]() | JavaScript | [HackerRank](https://www.hackerrank.com/) |
+| Solução em JavaScript - HackerRank | JavaScript | [HackerRank](https://www.hackerrank.com/) |
 
 <br>
 
