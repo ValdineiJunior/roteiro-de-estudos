@@ -57,7 +57,7 @@
 
 <br>
 
-# Tutoriais e Dicas
+# Tutoriais, Dicas e Conteúdos
 <img src="https://i.pinimg.com/originals/a8/a5/76/a8a576bf5beea36acd5ad1774b65d516.png">
 
 <br>
@@ -67,7 +67,10 @@
 | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) | Personalizando a paleta de cores padrão do seu projeto |
 | [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
 | [Pyflo](https://pyflo.net/intro/) | Aulas introdutórias de python |
-| [Devtools Tips](https://devtoolstips.org/) | Dicas para o DevTools | 
+| [Devtools Tips](https://devtoolstips.org/) | Dicas para o DevTools |
+| [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) | Tutorial interativo de Git |
+| [Free Programming Books](https://ebookfoundation.github.io/free-programming-books-search/) | Lista de recursos de aprendizagem gratuitos em vários idiomas |
+| [Microsoft Learn](https://learn.microsoft.com/pt-br/) | Aprendenda sobre produtos e serviços por meio do aprendizado interativo baseado em tarefas |
 
 <br>
 
@@ -89,6 +92,7 @@
 | [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) | O motor de busca de traduções em contexto |
 | [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) | Oferece dicionários gratuitamente para quem quer aprender inglês |
 | [Whimsical](https://whimsical.com/) | O hub para colaboração visual, combine diagramação, quadro branco e muito mais |
+| [Code Triage](https://www.codetriage.com/) | Ajude seus projetos de código aberto favoritos e torne-se um desenvolvedor melhor |
 
 <br>
 
