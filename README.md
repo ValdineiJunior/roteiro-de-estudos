@@ -6,7 +6,7 @@
 
 - ### Também utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
 
-- ### Abaixo segue uma lista de conteúdo, um pouco do meu progresso entre outras informações.
+- ### Abaixo segue uma lista de conteúdo, meu progresso entre outras informações.
 
 # Certificados
 <img src="https://i.pinimg.com/originals/dc/4b/24/dc4b24f1c2a110d7004d3317b948608f.png">
