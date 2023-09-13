@@ -28,18 +28,18 @@
 
 <br>
 
-| Curso | Fonte | Progresso |
-|:-----:|:-----:|:---------:|
-| [Aprendendo a aprender](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/8) | [Coursera](https://www.coursera.org/learn/aprender) | ![Progresso](https://progress-bar.dev/100/) |
-| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) |
-| [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | ![Progresso](https://progress-bar.dev/100/) |
-| [Git e GitHub](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/23) | [Cursoemvideo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Introdução à Ciência da Computação com Python I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/24) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | ![Progresso](https://progress-bar.dev/100/) |
-| [Fundamentos Matemáticos para Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/54) | [Youtube - Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | ![Progresso](https://progress-bar.dev/100/) |
-| [Ciência da Computação 50 (CC50)](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/4) | [Ead Na Prática](https://ead.napratica.org.br/enrollments/8929084/courses/84414) | ![Progresso](https://progress-bar.dev/78/) |
-| [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | ![Progresso](https://progress-bar.dev/12/) |
-| [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/55/) |
-| [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/6/) |
+| Curso | Fonte | Progresso | Anotações |
+|:-----:|:-----:|:---------:|:---------:|
+| [Aprendendo a aprender](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/8) | [Coursera](https://www.coursera.org/learn/aprender) | ![Progresso](https://progress-bar.dev/100/) | [Anotações](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/90) |
+| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
+| [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
+| [Git e GitHub](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/23) | [Cursoemvideo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
+| [Introdução à Ciência da Computação com Python I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/24) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
+| [Fundamentos Matemáticos para Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/54) | [Youtube - Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
+| [Ciência da Computação 50 (CC50)](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/4) | [Ead Na Prática](https://ead.napratica.org.br/enrollments/8929084/courses/84414) | ![Progresso](https://progress-bar.dev/78/) | Anotações |
+| [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | ![Progresso](https://progress-bar.dev/12/) | Anotações |
+| [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/55/) | Anotações |
+| [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/6/) | Anotações |
 
 <br>
 
