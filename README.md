@@ -57,6 +57,20 @@
 
 <br>
 
+# Tutoriais e Dicas
+<img src="https://i.pinimg.com/originals/a8/a5/76/a8a576bf5beea36acd5ad1774b65d516.png">
+
+<br>
+
+| Ferramenta | Descrição |
+|:-----:|:-----:|
+| [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) | Personalizando a paleta de cores padrão do seu projeto |
+| [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
+| [Pyflo](https://pyflo.net/intro/) | Aulas introdutórias de python |
+| [Devtools Tips](https://devtoolstips.org/) | Dicas para o DevTools | 
+
+<br>
+
 # Ferramentas Úteis
 <img src="https://i.pinimg.com/originals/d2/fe/60/d2fe60be9ebbfaf4e7fec5a7f9c48696.png">
 
@@ -70,15 +84,11 @@
 | [ChatGPT](https://chat.openai.com/) | Um chatbot online de inteligência artificial |
 | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) | Veja as estatísticas de linguagens do GitHub |
 | [Profile Pic Maker](https://pfpmaker.com/) | Criador de fotos de perfil, crie uma incrível Foto do perfil de graça |
-| [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) | Personalizando a paleta de cores padrão do seu projeto |
 | [Free4Talk](https://www.free4talk.com/) | Uma comunidade de prática linguística |
 | [Interview Warmup](https://grow.google/certificates/interview-warmup/) | Uma maneira rápida de se preparar para sua próxima entrevista |
 | [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) | O motor de busca de traduções em contexto |
 | [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) | Oferece dicionários gratuitamente para quem quer aprender inglês |
-| [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
 | [Whimsical](https://whimsical.com/) | O hub para colaboração visual, combine diagramação, quadro branco e muito mais |
-| [Pyflo](https://pyflo.net/intro/) | Aulas introdutórias de python |
-| [Devtools Tips](https://devtoolstips.org/) | Dicas para o DevTools | 
 
 <br>
 
