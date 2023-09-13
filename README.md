@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu roteiro de estudos
+# Seja bem vindo ao meu roteiro de estudos e anotações
 
 <img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
@@ -62,7 +62,7 @@
 
 <br>
 
-| Ferramenta | Descrição |
+| Fonte | Descrição |
 |:-----:|:-----:|
 | [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) | Personalizando a paleta de cores padrão do seu projeto |
 | [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
@@ -97,7 +97,7 @@
 
 <br>
 
-# Fontes de Estudo
+# Roteiros de Estudo
 <img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
 
 <br>
