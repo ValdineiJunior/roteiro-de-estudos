@@ -71,6 +71,7 @@
 | [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) | Tutorial interativo de Git |
 | [Free Programming Books](https://ebookfoundation.github.io/free-programming-books-search/) | Lista de recursos de aprendizagem gratuitos em vários idiomas |
 | [Microsoft Learn](https://learn.microsoft.com/pt-br/) | Aprendenda sobre produtos e serviços por meio do aprendizado interativo baseado em tarefas |
+| [GitHub Search Tips](https://www.freecodecamp.org/news/github-search-tips/?fbclid=IwAR0LbALWrCRhy2WClwoKKfcAyvIyZTHys6zYtEVkERd2pEMDUN0vA5C5PVw) | Dicas de pesquisa no GitHub |
 
 <br>
 
