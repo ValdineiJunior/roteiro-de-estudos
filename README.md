@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu roteiro de estudos e anotações
+# Seja bem vindo aos meus estudos e anotações.
 
 <img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
@@ -6,7 +6,7 @@
 
 - ### Também utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
 
-- ### Abaixo segue uma lista das fontes que utilizo, meu progresso em cada uma delas entre outras informações.
+- ### Abaixo segue uma lista de conteúdo, um pouco do meu progresso entre outras informações.
 
 # Certificados
 <img src="https://i.pinimg.com/originals/dc/4b/24/dc4b24f1c2a110d7004d3317b948608f.png">
