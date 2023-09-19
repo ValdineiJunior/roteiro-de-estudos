@@ -95,6 +95,7 @@
 | [Whimsical](https://whimsical.com/) | O hub para colaboração visual, combine diagramação, quadro branco e muito mais |
 | [Code Triage](https://www.codetriage.com/) | Ajude seus projetos de código aberto favoritos e torne-se um desenvolvedor melhor |
 | [PWA Screenshots Generator & Editor](https://progressier.com/pwa-screenshots-generator) | Crie capturas de tela do seu aplicativo para loja de apps |
+| [Imgur](https://imgur.com/) | Imgur é um servidor de hospedagem de imagem |
 
 <br>
 
