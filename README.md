@@ -31,7 +31,7 @@
 | Curso | Fonte | Progresso | Anotações |
 |:-----:|:-----:|:---------:|:---------:|
 | [Aprendendo a aprender](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/8) | [Coursera](https://www.coursera.org/learn/aprender) | ![Progresso](https://progress-bar.dev/100/) | [Anotações](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/90) |
-| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
+| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) | [Anotações](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/92) |
 | [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
 | [Git e GitHub](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/23) | [Cursoemvideo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
 | [Introdução à Ciência da Computação com Python I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/24) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | ![Progresso](https://progress-bar.dev/100/) | Anotações |
