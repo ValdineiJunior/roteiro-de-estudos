@@ -40,6 +40,7 @@
 | [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | ![Progresso](https://progress-bar.dev/12/) | Anotações |
 | [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/100/) | [Anotações](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/89) |
 | [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/6/) | Anotações |
+| [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn) | ![Progresso](https://progress-bar.dev/95/) | Anotações | 
 
 <br>
 
