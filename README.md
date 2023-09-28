@@ -41,6 +41,10 @@
 | [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/100/) |
 | [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/6/) |
 | [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn) | ![Progresso](https://progress-bar.dev/95/) |
+| [Empreendedorismo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/94) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
+| [Modelagem de Dados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/96) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
+| [Matemática Aplicada](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/95) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
+| [Plano de Acompanhamento de Carreira em ADS](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/91) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
 
 <br>
 
