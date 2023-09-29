@@ -45,6 +45,7 @@
 | [Modelagem de Dados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/96) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
 | [Matemática Aplicada](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/95) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
 | [Plano de Acompanhamento de Carreira em ADS](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/91) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/90/) |
+| [React]() | [RocketSeat](https://app.rocketseat.com.br/) | ![Progresso](https://progress-bar.dev/01/) |
 
 <br>
 
