@@ -105,6 +105,7 @@
 | [Imgur](https://imgur.com/) | Imgur é um servidor de hospedagem de imagem |
 | [Notion](https://www.notion.so/) | Notion fornece componentes tais como notas, bases de dados, quadros, wikis, calendários e lembretes. |
 | [Trello](https://trello.com/home) | Trello é um aplicativo de gerenciamento de projeto baseado na web |
+| [Color Name](https://www.color-name.com/) | Ótima ferramenta online para encontrar o nome da cor no código hexadecimal |
 
 <br>
 
