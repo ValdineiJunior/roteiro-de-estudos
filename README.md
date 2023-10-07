@@ -20,6 +20,7 @@
 | [Certificado Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42:00 horas |
 | [Certificado Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16:00 horas |
 | [Certificado Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32:00 horas |
+| [Certificado Responsive Web Design]() | [Free Code Camp](https://www.freecodecamp.org/learn/) | 300:00 horas |
 
 <br>
 
