@@ -94,6 +94,7 @@
 | [Replit](https://replit.com/~) | Editor de código-fonte online |
 | [CodePen](https://codepen.io/) | Editor de código-fonte online |
 | [Carbon](https://carbon.now.sh/) | Crie e compartilhe belas imagens do seu código-fonte |
+| [Ray](https://ray.so/) | Transforme seu código em belas imagens |
 | [ChatGPT](https://chat.openai.com/) | Um chatbot online de inteligência artificial |
 | [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) | Veja as estatísticas de linguagens do GitHub |
 | [Profile Pic Maker](https://pfpmaker.com/) | Criador de fotos de perfil, crie uma incrível Foto do perfil de graça |
@@ -108,6 +109,7 @@
 | [Notion](https://www.notion.so/) | Notion fornece componentes tais como notas, bases de dados, quadros, wikis, calendários e lembretes. |
 | [Trello](https://trello.com/home) | Trello é um aplicativo de gerenciamento de projeto baseado na web |
 | [Color Name](https://www.color-name.com/) | Ótima ferramenta online para encontrar o nome da cor no código hexadecimal |
+| [Readme](https://readme.so/pt) | A forma mais fácil de criar um README |
 
 <br>
 
