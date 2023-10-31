@@ -110,6 +110,8 @@
 | [Trello](https://trello.com/home) | Trello é um aplicativo de gerenciamento de projeto baseado na web |
 | [Color Name](https://www.color-name.com/) | Ótima ferramenta online para encontrar o nome da cor no código hexadecimal |
 | [Readme](https://readme.so/pt) | A forma mais fácil de criar um README |
+| [SSI Linkedin](https://www.linkedin.com/sales/ssi) | See your indicators and ability to 'sell' yourself on LinkedIn |
+| [2023 Developer Survey](https://survey.stackoverflow.co/2023/) | Industry-leading insights regarding the developer community |
 
 <br>
 
