@@ -48,7 +48,7 @@
 | [Plano de Acompanhamento de Carreira em ADS](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/91) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
 | [React, JavaScript e TypeScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/97) | [Fontes Diversas] | ![Progresso](https://progress-bar.dev/01/) |
 | [Técnicas de Desenvolvimento de Algoritmos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/98) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
-| [Programação Orientada a Objetos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/98) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
+| [Programação Orientada a Objetos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/119) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/40/) |
 
 <br>
 
