@@ -129,7 +129,7 @@
 | [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
 
 # Diário de Desempenho Profissional e Acadêmico
-<img src="https://i.pinimg.com/originals/6d/fa/33/6dfa338d061045f9cf84af67fa64c17f.png">
+<img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
 <br>
 
