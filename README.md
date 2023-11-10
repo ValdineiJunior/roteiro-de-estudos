@@ -127,3 +127,13 @@
 | [Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) |
 | [Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) | [Free Code Camp](https://www.freecodecamp.org/learn/) |
 | [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+
+# Diário de Desempenho Profissional e Acadêmico
+<img src="https://i.pinimg.com/originals/6d/fa/33/6dfa338d061045f9cf84af67fa64c17f.png">
+
+<br>
+
+| Ramo |
+|:-----:|
+| [Academico](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) |
+| [Profissional](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) |
