@@ -135,5 +135,5 @@
 
 | Ramo |
 |:-----:|
-| [Academico](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) |
-| [Profissional](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) |
+| [Diário de Desempenho Acadêmico](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/122) |
+| [Diário de Desempenho Profissional](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/121) |
