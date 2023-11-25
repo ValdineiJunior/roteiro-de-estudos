@@ -26,7 +26,7 @@
 
 <br>
 
-# Cursos
+# Courses
 <img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
 
 <br>
@@ -54,18 +54,16 @@
 
 <br>
 
-# Desafios
+# Challenges
 <img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
 
 <br>
 
-| Solução dos Desafios | Linguagem | Fonte |
-|:--------:|:---------:|:-----:|
-| [Solução em C++ - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) | C++ | [Advent of Code](https://adventofcode.com/) |
-| [Solução em JavaScript - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) | JavaScript | [Codesignal](https://codesignal.com/) |
-| [Solução em JavaScript - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) | JavaScript | [Os Programadores](https://www.osprogramadores.com/desafios/) |
-| Solução em JavaScript - HackerRank | JavaScript | [HackerRank](https://www.hackerrank.com/) |
-
+| Challenge Solutions | Language | Source |
+|:---------------------:|:--------:|:------:|
+| [C++ Solution - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) | C++ | [Advent of Code](https://adventofcode.com/) |
+| [JavaScript Solution - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) | JavaScript | [Codesignal](https://codesignal.com/) |
+| [JavaScript Solution - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) | JavaScript | [Os Programadores](https://www.osprogramadores.com/desafios/) |
 <br>
 
 # Utils
