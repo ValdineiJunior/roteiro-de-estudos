@@ -67,60 +67,19 @@
 
 <br>
 
-# Tutoriais, Dicas e Conteúdos
-<img src="https://i.pinimg.com/originals/a8/a5/76/a8a576bf5beea36acd5ad1774b65d516.png">
-
-<br>
-
-| Fonte | Descrição |
-|:-----:|:-----:|
-| [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) | Personalizando a paleta de cores padrão do seu projeto |
-| [CSSreference.io](https://cssreference.io/) | Um guia visual gratuito para CSS |
-| [Pyflo](https://pyflo.net/intro/) | Aulas introdutórias de python |
-| [Devtools Tips](https://devtoolstips.org/) | Dicas para o DevTools |
-| [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) | Tutorial interativo de Git |
-| [Free Programming Books](https://ebookfoundation.github.io/free-programming-books-search/) | Lista de recursos de aprendizagem gratuitos em vários idiomas |
-| [Microsoft Learn](https://learn.microsoft.com/pt-br/) | Aprendenda sobre produtos e serviços por meio do aprendizado interativo baseado em tarefas |
-| [GitHub Search Tips](https://www.freecodecamp.org/news/github-search-tips/?fbclid=IwAR0LbALWrCRhy2WClwoKKfcAyvIyZTHys6zYtEVkERd2pEMDUN0vA5C5PVw) | Dicas de pesquisa no GitHub |
-| [21 Useful Terminal Shortcuts Pro Linux Users Love to Use](https://itsfoss.com/linux-terminal-shortcuts/) | 21 atalhos de terminal Linux |
-
-<br>
-
-# Ferramentas Úteis
+# Utils
 <img src="https://i.pinimg.com/originals/d2/fe/60/d2fe60be9ebbfaf4e7fec5a7f9c48696.png">
 
 <br>
 
-| Ferramenta | Descrição |
-|:-----:|:-----:|
-| [Replit](https://replit.com/~) | Editor de código-fonte online |
-| [CodePen](https://codepen.io/) | Editor de código-fonte online |
-| [Carbon](https://carbon.now.sh/) | Crie e compartilhe belas imagens do seu código-fonte |
-| [Ray](https://ray.so/) | Transforme seu código em belas imagens |
-| [ChatGPT](https://chat.openai.com/) | Um chatbot online de inteligência artificial |
-| [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) | Veja as estatísticas de linguagens do GitHub |
-| [Profile Pic Maker](https://pfpmaker.com/) | Criador de fotos de perfil, crie uma incrível Foto do perfil de graça |
-| [Free4Talk](https://www.free4talk.com/) | Uma comunidade de prática linguística |
-| [Interview Warmup](https://grow.google/certificates/interview-warmup/) | Uma maneira rápida de se preparar para sua próxima entrevista |
-| [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) | O motor de busca de traduções em contexto |
-| [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) | Oferece dicionários gratuitamente para quem quer aprender inglês |
-| [Whimsical](https://whimsical.com/) | O hub para colaboração visual, combine diagramação, quadro branco e muito mais |
-| [Code Triage](https://www.codetriage.com/) | Ajude seus projetos de código aberto favoritos e torne-se um desenvolvedor melhor |
-| [PWA Screenshots Generator & Editor](https://progressier.com/pwa-screenshots-generator) | Crie capturas de tela do seu aplicativo para loja de apps |
-| [Imgur](https://imgur.com/) | Imgur é um servidor de hospedagem de imagem |
-| [Notion](https://www.notion.so/) | Notion fornece componentes tais como notas, bases de dados, quadros, wikis, calendários e lembretes. |
-| [Trello](https://trello.com/home) | Trello é um aplicativo de gerenciamento de projeto baseado na web |
-| [Color Name](https://www.color-name.com/) | Ótima ferramenta online para encontrar o nome da cor no código hexadecimal |
-| [Readme](https://readme.so/pt) | A forma mais fácil de criar um README |
-| [SSI Linkedin](https://www.linkedin.com/sales/ssi) | See your indicators and ability to 'sell' yourself on LinkedIn |
-| [2023 Developer Survey](https://survey.stackoverflow.co/2023/) | Industry-leading insights regarding the developer community |
+| Utils |
+|:--------:|
+| [Tutoriais, Dicas e Conteúdos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/123) |
+| [Ferramentas Úteis](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/124) |
 
 <br>
 
 # Roteiros de Estudo
-<img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
-
-<br>
 
 | Roteiro | Fonte |
 |:-----:|:-----:|
