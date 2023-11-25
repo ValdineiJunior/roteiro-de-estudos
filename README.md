@@ -1,27 +1,28 @@
-# Seja bem vindo aos meus estudos e anotações.
+# Welcome to my studies and notes.
 
 <img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
-- ### Aqui faço a organização e acompanhamento de meus estudos na área de programação.
+- ### Here, I organize and track my studies in the programming field.
 
-- ### Também utilizo como uma forma de metrificar e tomar notas sobre o que estou estudando.
+- ### I also use it as a way to measure progress and take notes on what I am studying.
 
-- ### Abaixo segue uma lista de conteúdo, meu progresso entre outras informações.
+- ### Below is a list of content, my progress, and other information.
 
-# Certificados
+# Certificates
+
 <img src="https://i.pinimg.com/originals/dc/4b/24/dc4b24f1c2a110d7004d3317b948608f.png">
 
 <br>
 
-| Certificado | Certificadora | Duração do Curso |
-|:-----------:|:-------------:|:-------:|
-| [Certificado Conectar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) | [Rocket Seat](https://app.rocketseat.com.br/) | 05:00 horas |
-| [Certificado Fundamentar Rocket Seat](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) | [Rocket Seat](https://app.rocketseat.com.br/) | 28:00 horas |
-| [Certificado Introdução à Ciência da Computação com Python Parte 1](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42:00 horas |
-| [Certificado Learning How to Learn](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16:00 horas |
-| [Certificado Minicamp Dev & Data](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32:00 horas |
-| [Certificado Responsive Web Design](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/111) | [Free Code Camp](https://www.freecodecamp.org/learn/) | 300:00 horas |
-| [Certificado CC50: Introdução à Ciência da Computação ](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/120) | [Fundação Estudar](https://perfil.napratica.org.br/e) | 70:00 horas |
+| Certificate | Certifying Body | Course Duration |
+|:-----------:|:---------------:|:---------------:|
+| [Conectar Rocket Seat Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) | [Rocket Seat](https://app.rocketseat.com.br/) | 05:00 hours |
+| [Fundamentar Rocket Seat Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) | [Rocket Seat](https://app.rocketseat.com.br/) | 28:00 hours |
+| [Introduction to Computer Science with Python Part 1 Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42:00 hours |
+| [Learning How to Learn Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16:00 hours |
+| [Minicamp Dev & Data Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32:00 hours |
+| [Responsive Web Design Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/111) | [Free Code Camp](https://www.freecodecamp.org/learn/) | 300:00 hours |
+| [CS50: Introduction to Computer Science Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/120) | [Estudar Foundation](https://perfil.napratica.org.br/e) | 70:00 hours |
 
 <br>
 
