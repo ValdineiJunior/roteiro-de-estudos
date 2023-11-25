@@ -80,6 +80,7 @@
 <br>
 
 # Roteiros de Estudo
+<img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
 
 | Roteiro | Fonte |
 |:-----:|:-----:|
@@ -92,7 +93,6 @@
 
 <br>
 
-| Ramo |
+| Portfolio |
 |:-----:|
-| [Diário de Desempenho Acadêmico](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/122) |
-| [Diário de Desempenho Profissional](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/121) |
+| [Record of Development, Integration, and Achievements](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/121) |
