@@ -73,21 +73,22 @@
 
 | Utils |
 |:--------:|
-| [Tutoriais, Dicas e Conteúdos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/123) |
-| [Ferramentas Úteis](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/124) |
-
+| [Tutorials, Tips, and Content](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/123) |
+| [Useful Tools](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/124) |
 <br>
 
-# Roteiros de Estudo
+Certainly! Here's the translation of the provided content:
+
+# Study Guides
 <img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
 
-| Roteiro | Fonte |
+| Guide | Source |
 |:-----:|:-----:|
-| [Cursos em Ciência da Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) |
-| [Curso Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) | [Free Code Camp](https://www.freecodecamp.org/learn/) |
-| [Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [Computer Science Courses](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) | [Free Brazilian University](https://github.com/Universidade-Livre/ciencia-da-computacao) |
+| [Responsive Web Design Course](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) | [Free Code Camp](https://www.freecodecamp.org/learn/) |
+| [Higher Education Course in Systems Analysis and Development](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
 
-# Diário de Desempenho Profissional e Acadêmico
+# Professional and Academic Performance Journal
 <img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
 <br>
