@@ -19,6 +19,7 @@
 | [Conectar Rocket Seat Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/82) | [Rocket Seat](https://app.rocketseat.com.br/) | 05:00 hours |
 | [Fundamentar Rocket Seat Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/81) | [Rocket Seat](https://app.rocketseat.com.br/) | 28:00 hours |
 | [Introduction to Computer Science with Python Part 1 Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/78) | [Coursera](https://www.coursera.org/) | 42:00 hours |
+| [Introduction to Computer Science with Python Part 2 Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/126) | [Coursera](https://www.coursera.org/) | 30:00 hours |
 | [Learning How to Learn Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/51) | [Coursera](https://www.coursera.org/) | 16:00 hours |
 | [Minicamp Dev & Data Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/79) | [XPe](https://www.xpeducacao.com.br/) | 32:00 hours |
 | [Responsive Web Design Certificate](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/111) | [Free Code Camp](https://www.freecodecamp.org/learn/) | 300:00 hours |
