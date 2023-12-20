@@ -43,7 +43,7 @@
 | [Ciência da Computação 50 (CC50)](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/4) | [Ead Na Prática](https://ead.napratica.org.br/enrollments/8929084/courses/84414) | ![Progresso](https://progress-bar.dev/100/) |
 | [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | ![Progresso](https://progress-bar.dev/100/) |
 | [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/100/) |
-| [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/6/) |
+| [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/100/) |
 | [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn) | ![Progresso](https://progress-bar.dev/100/) |
 | [Empreendedorismo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/94) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
 | [Modelagem de Dados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/96) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
