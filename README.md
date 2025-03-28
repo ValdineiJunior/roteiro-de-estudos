@@ -71,3 +71,9 @@
 
 - [Learn Closures In 7 Minutes](https://www.youtube.com/watch?v=3a0I8ICR1Vg&ab_channel=WebDevSimplified)
 - [JavaScript Visualized - Closures](https://www.youtube.com/watch?v=6Ixyltr8_R0&ab_channel=LydiaHallie)
+
+## Promise
+
+- [JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E&ab_channel=WebDevSimplified)
+- [What are JavaScript PROMISES?](https://www.youtube.com/watch?v=NOzi4wBHn0o&ab_channel=BroCode)
+  
