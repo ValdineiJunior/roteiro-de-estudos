@@ -33,4 +33,15 @@
 - [Tutorials, Tips, and Content](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/123)
 - [Useful Tools](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/124)
 
+# Tips
+
+- [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) - Personalizando a paleta de cores padrão do seu projeto
+- [CSSreference.io](https://cssreference.io/) - Um guia visual gratuito para CSS
+- [Pyflo](https://pyflo.net/intro/) - Aulas introdutórias de Python
+- [Devtools Tips](https://devtoolstips.org/) - Dicas para o DevTools
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) - Tutorial interativo de Git
+- [Free Programming Books](https://ebookfoundation.github.io/free-programming-books-search/) - Lista de recursos de aprendizagem gratuitos em vários idiomas
+- [Microsoft Learn](https://learn.microsoft.com/pt-br/) - Aprenda sobre produtos e serviços por meio do aprendizado interativo baseado em tarefas
+- [GitHub Search Tips](https://www.freecodecamp.org/news/github-search-tips/?fbclid=IwAR0LbALWrCRhy2WClwoKKfcAyvIyZTHys6zYtEVkERd2pEMDUN0vA5C5PVw) - Dicas de pesquisa no GitHub
+- [21 Useful Terminal Shortcuts Pro Linux Users Love to Use](https://itsfoss.com/linux-terminal-shortcuts/) - 21 atalhos de terminal Linux
 
