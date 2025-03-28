@@ -76,4 +76,10 @@
 
 - [JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E&ab_channel=WebDevSimplified)
 - [What are JavaScript PROMISES?](https://www.youtube.com/watch?v=NOzi4wBHn0o&ab_channel=BroCode)
+
+## async/await
+
+- [JavaScript ASYNC/AWAIT is easy!](https://www.youtube.com/watch?v=9j1dZwFEJ-c&ab_channel=BroCode)
+- 
+
   
