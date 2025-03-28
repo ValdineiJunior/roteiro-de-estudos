@@ -63,4 +63,11 @@
 - [Color Name](https://www.color-name.com/) - Discover color names  
 - [Readme](https://readme.so/pt) - Easy README creation  
 - [SSI LinkedIn](https://www.linkedin.com/sales/ssi) - LinkedIn profile insights  
-- [2023 Developer Survey](https://survey.stackoverflow.co/2023/) - Developer community insights  
+- [2023 Developer Survey](https://survey.stackoverflow.co/2023/) - Developer community insights
+
+# JavaScript ES6+
+
+## Closure
+
+- [Learn Closures In 7 Minutes](https://www.youtube.com/watch?v=3a0I8ICR1Vg&ab_channel=WebDevSimplified)
+- [JavaScript Visualized - Closures](https://www.youtube.com/watch?v=6Ixyltr8_R0&ab_channel=LydiaHallie)
