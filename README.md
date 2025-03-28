@@ -1,7 +1,5 @@
 # Welcome to my studies and notes.
 
-<img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
-
 - ### Here, I organize and track my studies in the programming field.
 
 - ### I also use it as a way to measure progress and take notes on what I am studying.
@@ -9,8 +7,6 @@
 - ### Below is a list of content, my progress, and other information.
 
 # Certificates
-
-<img src="https://i.pinimg.com/originals/dc/4b/24/dc4b24f1c2a110d7004d3317b948608f.png">
 
 <br>
 
@@ -28,7 +24,6 @@
 <br>
 
 # Courses
-<img src="https://i.pinimg.com/originals/be/71/98/be7198d8041cd634aad98b501690a8de.png">
 
 <br>
 
@@ -50,7 +45,6 @@
 <br>
 
 # Challenges
-<img src="https://i.pinimg.com/originals/1d/a4/d7/1da4d788716cfd18e196e0458fe89c60.png">
 
 <br>
 
@@ -62,7 +56,6 @@
 <br>
 
 # Utils
-<img src="https://i.pinimg.com/originals/d2/fe/60/d2fe60be9ebbfaf4e7fec5a7f9c48696.png">
 
 <br>
 
@@ -75,7 +68,6 @@
 Certainly! Here's the translation of the provided content:
 
 # Study Guides
-<img src="https://i.pinimg.com/originals/a9/e0/a0/a9e0a03eff5f7db2f580e0abcbc3fa9c.png">
 
 | Guide | Source |
 |:-----:|:-----:|
