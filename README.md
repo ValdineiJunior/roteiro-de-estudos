@@ -32,27 +32,27 @@
 
 <br>
 
-| Curso | Fonte | Progresso |
-|:-----:|:-----:|:---------:|
-| [Aprendendo a aprender](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/8) | [Coursera](https://www.coursera.org/learn/aprender) | ![Progresso](https://progress-bar.dev/100/) |
-| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | ![Progresso](https://progress-bar.dev/100/) |
-| [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) | ![Progresso](https://progress-bar.dev/100/) |
-| [Git e GitHub](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/23) | [Cursoemvideo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Introdução à Ciência da Computação com Python I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/24) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | ![Progresso](https://progress-bar.dev/100/) |
-| [Fundamentos Matemáticos para Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/54) | [Youtube - Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | ![Progresso](https://progress-bar.dev/100/) |
-| [Ciência da Computação 50 (CC50)](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/4) | [Ead Na Prática](https://ead.napratica.org.br/enrollments/8929084/courses/84414) | ![Progresso](https://progress-bar.dev/100/) |
-| [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) | ![Progresso](https://progress-bar.dev/100/) |
-| [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) | ![Progresso](https://progress-bar.dev/100/) |
-| [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) | ![Progresso](https://progress-bar.dev/100/) |
-| [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn) | ![Progresso](https://progress-bar.dev/100/) |
-| [Empreendedorismo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/94) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Modelagem de Dados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/96) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Matemática Aplicada](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/95) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Plano de Acompanhamento de Carreira em ADS](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/91) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [React, JavaScript e TypeScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/97) | [Rocket Seat](https://app.rocketseat.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Técnicas de Desenvolvimento de Algoritmos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/98) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Programação Orientada a Objetos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/119) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
-| [Programação Web](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/125) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) | ![Progresso](https://progress-bar.dev/100/) |
+| Curso | Fonte |
+|:-----:|:-----:|
+| [Aprendendo a aprender](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/8) | [Coursera](https://www.coursera.org/learn/aprender) |
+| [Como estudar do jeito certo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/9) | [Youtube - Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) |
+| [Git e Github para Iniciantes](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/10) | [Youtube - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A) |
+| [Git e GitHub](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/23) | [Cursoemvideo](https://www.cursoemvideo.com/curso/curso-de-git-e-github/) |
+| [Introdução à Ciência da Computação com Python I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/24) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) |
+| [Fundamentos Matemáticos para Computação](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/54) | [Youtube - Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) |
+| [Ciência da Computação 50 (CC50)](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/4) | [Ead Na Prática](https://ead.napratica.org.br/enrollments/8929084/courses/84414) |
+| [Introdução à Ciência da Computação com Python II](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/36) | [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) |
+| [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) |
+| [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) |
+| [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn) |
+| [Empreendedorismo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/94) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [Modelagem de Dados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/96) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [Matemática Aplicada](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/95) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [Plano de Acompanhamento de Carreira em ADS](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/91) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [React, JavaScript e TypeScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/97) | [Rocket Seat](https://app.rocketseat.com.br/) |
+| [Técnicas de Desenvolvimento de Algoritmos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/98) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [Programação Orientada a Objetos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/119) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
+| [Programação Web](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/125) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
 
 
 <br>
@@ -91,11 +91,5 @@ Certainly! Here's the translation of the provided content:
 | [Responsive Web Design Course](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) | [Free Code Camp](https://www.freecodecamp.org/learn/) |
 | [Higher Education Course in Systems Analysis and Development](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
 
-# Professional and Academic Performance Journal
-<img src="https://i.pinimg.com/originals/3a/b6/d7/3ab6d77c8a571a2124f3d610b5ec2c97.png">
 
-<br>
 
-| Portfolio |
-|:-----:|
-| [Record of Development, Integration, and Achievements](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/121) |
