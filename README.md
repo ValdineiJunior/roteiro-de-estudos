@@ -45,3 +45,30 @@
 - [GitHub Search Tips](https://www.freecodecamp.org/news/github-search-tips/?fbclid=IwAR0LbALWrCRhy2WClwoKKfcAyvIyZTHys6zYtEVkERd2pEMDUN0vA5C5PVw) - Dicas de pesquisa no GitHub
 - [21 Useful Terminal Shortcuts Pro Linux Users Love to Use](https://itsfoss.com/linux-terminal-shortcuts/) - 21 atalhos de terminal Linux
 
+# Tools
+
+- [Technology Icons](https://marwin1991.github.io/profile-technology-icons/) - Generate technology icons
+- [Replit](https://replit.com/~) - Editor de código-fonte online
+- [CodePen](https://codepen.io/) - Editor de código-fonte online
+- [Carbon](https://carbon.now.sh/) - Crie e compartilhe belas imagens do seu código-fonte
+- [Ray](https://ray.so/) - Transforme seu código em belas imagens
+- [ChatGPT](https://chat.openai.com/) - Um chatbot online de inteligência artificial
+- [GitHut 2.0](https://madnight.github.io/githut/#/pull_requests/2023/2) - Veja as estatísticas de linguagens do GitHub
+- [Profile Pic Maker](https://pfpmaker.com/) - Criador de fotos de perfil
+- [Free4Talk](https://www.free4talk.com/) - Comunidade de prática linguística
+- [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Prepare-se para entrevistas
+- [Reverso Context](https://context.reverso.net/traducao/ingles-portugues/nearly) - Motor de busca de traduções em contexto
+- [Cambridge Dictionary](https://dictionary.cambridge.org/pt/) - Dicionário de inglês gratuito
+- [Whimsical](https://whimsical.com/) - Hub para colaboração visual
+- [Code Triage](https://www.codetriage.com/) - Ajude projetos de código aberto
+- [PWA Screenshots Generator & Editor](https://progressier.com/pwa-screenshots-generator) - Crie capturas de tela de apps
+- [Imgur](https://imgur.com/) - Hospedagem de imagem
+- [Notion](https://www.notion.so/) - Gerenciamento de notas e projetos
+- [Trello](https://trello.com/home) - Gerenciamento de projetos
+- [Color Name](https://www.color-name.com/) - Descubra nomes de cores
+- [Readme](https://readme.so/pt) - Criação fácil de README
+- [SSI Linkedin](https://www.linkedin.com/sales/ssi) - Indicadores de perfil no LinkedIn
+- [2023 Developer Survey](https://survey.stackoverflow.co/2023/) - Insights da comunidade de desenvolvedores
+
+
+
