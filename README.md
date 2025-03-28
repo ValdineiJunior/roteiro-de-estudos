@@ -28,20 +28,9 @@
 - [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) - [Free Code Camp](https://www.freecodecamp.org/learn)
 - [React, JavaScript e TypeScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/97) - [Rocket Seat](https://app.rocketseat.com.br/)
 
-# Challenges
-
-- [C++ Solution - Advent of Code](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/27) - [Advent of Code](https://adventofcode.com/)
-- [JavaScript Solution - Codesignal](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/40) - [Codesignal](https://codesignal.com/)
-- [JavaScript Solution - Os Programadores](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/87) - [Os Programadores](https://www.osprogramadores.com/desafios/)
-
 # Utils
 
 - [Tutorials, Tips, and Content](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/123)
 - [Useful Tools](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/124)
 
-# Study Guides
-
-- [Computer Science Courses](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/1) - [Free Brazilian University](https://github.com/Universidade-Livre/ciencia-da-computacao)
-- [Responsive Web Design Course](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/88) - [Free Code Camp](https://www.freecodecamp.org/learn/)
-- [Higher Education Course in Systems Analysis and Development](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/80) - [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
 
