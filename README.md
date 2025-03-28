@@ -1,4 +1,4 @@
-# Welcome to my studies and notes.
+# Welcome to My Study Hub
 
 - I use this space to organize and track my programming studies, measure progress, and take notes on what I'm learning. Below is a list of content, my progress, and other relevant information.
 
