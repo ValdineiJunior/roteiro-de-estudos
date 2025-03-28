@@ -28,12 +28,7 @@
 - [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) - [Free Code Camp](https://www.freecodecamp.org/learn)
 - [React, JavaScript e TypeScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/97) - [Rocket Seat](https://app.rocketseat.com.br/)
 
-# Utils
-
-- [Tutorials, Tips, and Content](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/123)
-- [Useful Tools](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/124)
-
-# Tips
+# Docs and contents
 
 - [Tailwindcss - Customizing Colors](https://tailwindcss.com/docs/customizing-colors) - Personalizando a paleta de cores padrão do seu projeto
 - [CSSreference.io](https://cssreference.io/) - Um guia visual gratuito para CSS
