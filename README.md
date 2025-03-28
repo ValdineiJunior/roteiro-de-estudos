@@ -45,15 +45,7 @@
 | [Noções de Inglês](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/35) | [Youtube - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeYb4-3dXwiY2Z9VdqhnqpM) |
 | [Programação Orientada a Objetos I](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/37) | [Coursera](https://www.coursera.org/learn/lab-poo-parte-1) |
 | [Web Design Responsivo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/2) | [Free Code Camp](https://www.freecodecamp.org/learn) |
-| [Empreendedorismo](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/94) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
-| [Modelagem de Dados](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/96) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
-| [Matemática Aplicada](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/95) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
-| [Plano de Acompanhamento de Carreira em ADS](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/91) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
 | [React, JavaScript e TypeScript](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/97) | [Rocket Seat](https://app.rocketseat.com.br/) |
-| [Técnicas de Desenvolvimento de Algoritmos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/98) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
-| [Programação Orientada a Objetos](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/119) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
-| [Programação Web](https://github.com/ValdineiJunior/roteiro-de-estudos/issues/125) | [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/) |
-
 
 <br>
 
