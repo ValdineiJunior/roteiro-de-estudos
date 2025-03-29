@@ -65,6 +65,10 @@
 - [SSI LinkedIn](https://www.linkedin.com/sales/ssi) - LinkedIn profile insights  
 - [2023 Developer Survey](https://survey.stackoverflow.co/2023/) - Developer community insights
 
+# JavaScript
+
+- [20 Things JavaScript Developers Should Know](https://www.youtube.com/playlist?list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP)
+
 # JavaScript ES6+
 
 ## Closure
@@ -80,6 +84,10 @@
 ## async/await
 
 - [JavaScript ASYNC/AWAIT is easy!](https://www.youtube.com/watch?v=9j1dZwFEJ-c&ab_channel=BroCode)
-- 
 
+## event loop
+
+- [JavaScript Event Loop: How it Works and Why it Matters in 5 Minutes](https://www.youtube.com/watch?v=lqLSNG_79lI&ab_channel=JamesQQuick)
+- [Javascript - Como explicar o EVENT LOOP para um recrutador?](https://www.youtube.com/watch?v=YI9ckiCuuoc&ab_channel=NextDevSchoolLab)
+- 
   
