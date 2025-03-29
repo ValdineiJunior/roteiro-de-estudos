@@ -62,7 +62,6 @@
 - [Trello](https://trello.com/home) - Project management  
 - [Color Name](https://www.color-name.com/) - Discover color names  
 - [Readme](https://readme.so/pt) - Easy README creation  
-- [SSI LinkedIn](https://www.linkedin.com/sales/ssi) - LinkedIn profile insights  
 - [2023 Developer Survey](https://survey.stackoverflow.co/2023/) - Developer community insights
 
 # JavaScript
