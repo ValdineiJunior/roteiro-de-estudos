@@ -88,5 +88,23 @@
 
 - [JavaScript Event Loop: How it Works and Why it Matters in 5 Minutes](https://www.youtube.com/watch?v=lqLSNG_79lI&ab_channel=JamesQQuick)
 - [Javascript - Como explicar o EVENT LOOP para um recrutador?](https://www.youtube.com/watch?v=YI9ckiCuuoc&ab_channel=NextDevSchoolLab)
-- 
-  
+
+## this keyword
+
+- [JavaScript this Keyword](https://www.youtube.com/watch?v=gvicrj31JOM&ab_channel=ProgrammingwithMosh)
+
+#React
+
+- [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw&ab_channel=CodeBootcamp)
+
+## useState
+
+- [Learn useState In 15 Minutes - React Hooks Explained](https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified)
+
+## useEffect
+
+- [Master React Hooks in easy way | useEffect](https://www.youtube.com/watch?v=YxkcMszKEYY&ab_channel=NovaDesigns)
+
+## useReducer
+
+- [Master React Hooks in easy way | useState & useReducer](https://www.youtube.com/watch?v=43H_PNDPHtg&ab_channel=NovaDesigns)
