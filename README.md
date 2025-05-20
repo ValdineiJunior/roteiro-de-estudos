@@ -108,3 +108,10 @@
 ## useReducer
 
 - [Master React Hooks in easy way | useState & useReducer](https://www.youtube.com/watch?v=43H_PNDPHtg&ab_channel=NovaDesigns)
+
+## Atomic design
+
+- [O que é Atomic Design? E quais as suas vantagens.](https://www.youtube.com/watch?v=x-4li6foEN8&ab_channel=AlvaroSouza)
+- [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
+
+
