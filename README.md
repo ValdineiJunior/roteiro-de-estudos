@@ -114,4 +114,8 @@
 - [O que é Atomic Design? E quais as suas vantagens.](https://www.youtube.com/watch?v=x-4li6foEN8&ab_channel=AlvaroSouza)
 - [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
 
+ ## Catastrophic Backtrackin
+
+- [Catastrophic Backtracking ‒ When Regular Expressions Explode HD](https://www.youtube.com/watch?v=IP5xnHm45s4&ab_channel=PratikJoshi)
+
 
